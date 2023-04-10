@@ -1,9 +1,12 @@
 # Text-Summarization
 how to run this project:
-  git clone https://github.com/mohamadhasan-zeinali/Text-Summarization
-  cd Text-Summarization
-  pip install -r requirments.txt
-  streamlit run summarizer.py
+
+    git clone https://github.com/mohamadhasan-zeinali/Text-Summarization
+    cd Text-Summarization
+    pip install -r requirments.txt
+    streamlit run summarizer.py
+  
+    
   
  Enjoy:)
 
